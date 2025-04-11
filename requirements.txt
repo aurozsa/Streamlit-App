@@ -1,7 +1,6 @@
 streamlit
 pandas
 matplotlib
-plotly
 seaborn
 requests
-zipfile
+plotly
